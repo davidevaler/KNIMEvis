@@ -3,7 +3,7 @@ authors = ["Giuseppe Di Fatta", "Andrea Rosani", "Thomas Borsani", "Raziyeh Taba
 channels = ["knime", "conda-forge"]
 name = "knimevislab"
 platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
-version = "0.1.0"
+version = "0.2.0"
 
 [tasks]
 

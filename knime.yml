@@ -4,7 +4,7 @@ extension_module: src/knimeVis # The .py Python module containing the nodes of y
 description: KNIME Nodes for Image Processing # Human readable bundle name / description
 long_description: UniBZ Machine Learning Research Group - KNIME extension for image processing.
 group_id: it.unibz.ml
-version: 0.1.0 # Version of this Python node extension
+version: 0.2.0 # Version of this Python node extension
 vendor: Machine Learning Research Group, Free University of Bozen-Bolzano, Italy
 license_file: LICENSE.TXT # Best practice: put your LICENSE.TXT next to the knime.yml; otherwise you would need to change to path/to/LICENSE.txt
 

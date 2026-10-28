@@ -9,4 +9,4 @@ main_category = knext.category(
 )
 
 
-from knimeVisNodes import imageLoader,Denoising,EdgeDetection,Equalization,KnimeYOLO,SAM
+from knimeVisNodes import imageLoader,Denoising,EdgeDetection,Equalization,KnimeYOLO,SAM,MalariaDetect,Preprocessing,YOLO_DatasetExport
